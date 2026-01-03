@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://cdn.prod.website-files.com/60356daf4004b0b6c21b41f7/645a9396e8e01626e74ed6e9_cableguys%20logo.png" width="200" alt="Cableguys ShaperBox macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/CableguysShaperBox">
+ <a href="https://gnomik-gomik-apps.github.io/.github/CableguysShaperBox">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Cableguys ShaperBox macOS page">
  </a><br><br>
  <div align="center">
